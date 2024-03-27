@@ -1,0 +1,1 @@
+https://nouvelle-techno.fr/articles/mettre-en-place-une-pagination-en-php
